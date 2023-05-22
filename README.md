@@ -20,7 +20,8 @@
 8. Klik tombol Play untuk memainkan file tersebut.
 
 Contoh tampilan GUI :
-![image](https://github.com/Nat10k/ConvexHullMusicGenerator/assets/110515021/007e129e-edf2-4dea-ad80-4dbe7286b100)
+![image](https://github.com/Nat10k/ConvexHullMusicGenerator/assets/110515021/915257a3-2c28-43a0-9f6c-5c0d877185bb)
+
 
 ## Author
 Nama  : Nathan Tenka
